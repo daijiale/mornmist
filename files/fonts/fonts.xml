@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <fonts>
+    <font name="FontAwesome" className="" url="./files/fonts/font-0-0-20188117547490.swf" ttfurl="./files/fonts/font-0-0-20188117547490.ttf"/>
+    <font name="Adobe Gothic Std" className="FskyFont_adobegothicstd_bold" url="./files/fonts/font-1-0-20188117547493.swf" ttfurl="./files/fonts/font-1-0-20188117547493.ttf"/>
+    <font name="Webding" className="" url="./files/fonts/font-2-0-20188117547494.swf" ttfurl="./files/fonts/font-2-0-20188117547494.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht" url="./files/fonts/font-3-0-20188117547496.swf" ttfurl="./files/fonts/font-3-0-20188117547496.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold" url="./files/fonts/font-3-1-20188117547915.swf" ttfurl="./files/fonts/font-3-1-20188117547915.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Italic" url="./files/fonts/font-3-2-20188117548268.swf" ttfurl="./files/fonts/font-3-2-20188117548268.ttf"/>
+    <font name="思源黑体" className="FskyFont_syht_Bold_Italic" url="./files/fonts/font-3-3-20188117548639.swf" ttfurl="./files/fonts/font-3-3-20188117548639.ttf"/>
+    <font name="Droid Sans" className="FskyFont_droidsans" url="./files/fonts/font-4-0-2018811754912.swf" ttfurl="./files/fonts/font-4-0-2018811754912.ttf"/>
+    <font name="Droid Sans" className="FskyFont_droidsans_bold" url="./files/fonts/font-4-1-2018811754915.swf" ttfurl="./files/fonts/font-4-1-2018811754915.ttf"/>
+  </fonts>
+</data>
